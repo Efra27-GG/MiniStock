@@ -1,8 +1,7 @@
-
   # Ministock
 
-  This is a code bundle for Ministock. The original project is available at https://www.figma.com/design/mU8NfsSqvXIHLNSbgtLEMt/Ministock.
-
+  This is a code bundle for Ministock. Made withn figma.
+  
   ## Running the code
 
   Run `npm i` to install the dependencies.
