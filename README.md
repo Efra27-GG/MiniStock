@@ -1,6 +1,6 @@
   # Ministock
 
-  This is a code bundle for Ministock. Made withn figma.
+  This is a code bundle for Ministock. Made with figma.
   
   ## Running the code
 
